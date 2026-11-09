@@ -1,0 +1,8 @@
+[2026-11-09 20:32:03] Command executed by console | sender=CONSOLE full_command=smartspawner give sNigger12345 skeleton 19 command=give
+[2026-11-09 20:32:09] Spawner placed | Player: sNigger12345 | Location: world_the_end (6574, 74, 6562) | Entity: SKELETON | quantity=19
+[2026-11-09 20:37:29] Experience claimed | Player: sNigger12345 | Location: world_the_end (6574, 74, 6562) | exp_amount=2415
+[2026-11-09 20:37:29] Items sold | Player: sNigger12345 | Location: world_the_end (6574, 74, 6562) | Entity: SKELETON | total_price=366.0 items_sold=374
+[2026-11-09 20:45:58] Experience claimed | Player: sNigger12345 | Location: world_the_end (6574, 74, 6562) | exp_amount=2535
+[2026-11-09 20:45:58] Items sold | Player: sNigger12345 | Location: world_the_end (6574, 74, 6562) | Entity: SKELETON | total_price=334.0 items_sold=704
+[2026-11-09 20:47:00] Page items dropped | Player: sNigger12345 | Location: world_the_end (6574, 74, 6562) | Entity: SKELETON | items_dropped=58 page_number=1
+[2026-11-09 20:47:05] Page items dropped | Player: sNigger12345 | Location: world_the_end (6574, 74, 6562) | Entity: SKELETON | items_dropped=28 page_number=1

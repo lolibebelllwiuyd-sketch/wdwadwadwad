@@ -1,0 +1,153 @@
+[2026-11-08 09:43:49] Command executed by player | Player: Xaikaww1 | full_command=ss give Xaikaww1 skeleton 64 command=give
+[2026-11-08 09:43:51] Spawner placed | Player: Xaikaww1 | Location: world_the_end (949, 59, 291) | Entity: SKELETON | quantity=64
+[2026-11-08 09:44:02] Command executed by player | Player: Xaikaww1 | full_command=ss gui_layout DonutSMP_v2 command=gui_layout
+[2026-11-08 09:50:00] Spawner destroyed by explosion | Location: world_the_end (949, 59, 291) | Entity: SKELETON | cause=SpawnerExplodeEvent quantity=1
+[2026-11-08 09:50:02] Spawner destroyed by explosion | Location: world_the_end (949, 59, 291) | Entity: SKELETON | cause=SpawnerExplodeEvent quantity=1
+[2026-11-08 09:50:02] Spawner destroyed by explosion | Location: world_the_end (949, 59, 291) | Entity: SKELETON | cause=SpawnerExplodeEvent quantity=1
+[2026-11-08 09:50:05] Spawner destroyed by explosion | Location: world_the_end (949, 59, 291) | Entity: SKELETON | cause=SpawnerExplodeEvent quantity=1
+[2026-11-08 09:50:05] Spawner destroyed by explosion | Location: world_the_end (949, 59, 291) | Entity: SKELETON | cause=SpawnerExplodeEvent quantity=1
+[2026-11-08 09:50:05] Spawner destroyed by explosion | Location: world_the_end (949, 59, 291) | Entity: SKELETON | cause=SpawnerExplodeEvent quantity=1
+[2026-11-08 09:50:05] Spawner destroyed by explosion | Location: world_the_end (949, 59, 291) | Entity: SKELETON | cause=SpawnerExplodeEvent quantity=1
+[2026-11-08 10:27:14] Command executed by console | sender=CONSOLE full_command=smartspawner give Sadcat cow 1 command=give
+[2026-11-08 10:27:17] Spawner placed | Player: Sadcat | Location: world (123, 70, 116) | Entity: COW | quantity=1
+[2026-11-08 10:27:53] Items sold | Player: Sadcat | Location: world (123, 70, 116) | Entity: COW | total_price=18.0 items_sold=7
+[2026-11-08 10:32:13] Experience claimed | Player: Sadcat | Location: world (123, 70, 116) | exp_amount=59
+[2026-11-08 10:32:13] Items sold | Player: Sadcat | Location: world (123, 70, 116) | Entity: COW | total_price=154.0 items_sold=59
+[2026-11-08 10:35:21] Experience claimed | Player: Sadcat | Location: world (123, 70, 116) | exp_amount=6
+[2026-11-08 10:35:22] Items sold | Player: Sadcat | Location: world (123, 70, 116) | Entity: COW | total_price=32.0 items_sold=14
+[2026-11-08 11:24:22] Command executed by console | sender=CONSOLE full_command=smartspawner give SixthAttic8703 skeleton 1 command=give
+[2026-11-08 11:24:27] Spawner placed | Player: SixthAttic8703 | Location: world (250, 99, 257) | Entity: SKELETON | quantity=1
+[2026-11-08 11:31:17] Experience claimed | Player: W_W | Location: world (123, 70, 116) | exp_amount=52
+[2026-11-08 11:31:17] Items sold | Player: W_W | Location: world (123, 70, 116) | Entity: COW | total_price=154.0 items_sold=58
+[2026-11-08 11:35:15] Experience claimed | Player: W_W | Location: world (250, 99, 257) | exp_amount=300
+[2026-11-08 11:35:16] Items sold | Player: W_W | Location: world (250, 99, 257) | Entity: SKELETON | total_price=66.5 items_sold=67
+[2026-11-08 11:38:43] Command executed by console | sender=CONSOLE full_command=smartspawner give lordFixer cow 1 command=give
+[2026-11-08 11:38:45] Spawner placed | Player: lordFixer | Location: world (150, 75, 147) | Entity: COW | quantity=1
+[2026-11-08 11:39:34] Experience claimed | Player: lordFixer | Location: world (150, 75, 147) | exp_amount=9
+[2026-11-08 11:39:34] Items sold | Player: lordFixer | Location: world (150, 75, 147) | Entity: COW | total_price=18.0 items_sold=7
+[2026-11-08 11:47:50] Spawner destroyed by explosion | Location: world (250, 99, 257) | Entity: SKELETON | cause=SpawnerExplodeEvent quantity=1
+[2026-11-08 12:57:19] Experience claimed | Player: DxrkXD | Location: world (123, 70, 116) | exp_amount=12
+[2026-11-08 12:57:19] Items sold | Player: DxrkXD | Location: world (123, 70, 116) | Entity: COW | total_price=20.0 items_sold=8
+[2026-11-08 13:23:59] Experience claimed | Player: DxrkXD | Location: world (123, 70, 116) | exp_amount=89
+[2026-11-08 13:23:59] Items sold | Player: DxrkXD | Location: world (123, 70, 116) | Entity: COW | total_price=194.0 items_sold=76
+[2026-11-08 14:06:05] Command executed by console | sender=CONSOLE full_command=smartspawner give ZeniPx skeleton 1 command=give
+[2026-11-08 14:06:10] Command executed by console | sender=CONSOLE full_command=smartspawner give ZeniPx skeleton 1 command=give
+[2026-11-08 14:06:14] Spawner placed | Player: ZeniPx | Location: world (-422, 65, 129) | Entity: SKELETON | quantity=2
+[2026-11-08 14:06:53] Experience claimed | Player: ZeniPx | Location: world (-422, 65, 129) | exp_amount=40
+[2026-11-08 14:06:53] Items sold | Player: ZeniPx | Location: world (-422, 65, 129) | Entity: SKELETON | total_price=7.5 items_sold=10
+[2026-11-08 14:07:45] Experience claimed | Player: ZeniPx | Location: world (-422, 65, 129) | exp_amount=40
+[2026-11-08 14:07:45] Items sold | Player: ZeniPx | Location: world (-422, 65, 129) | Entity: SKELETON | total_price=10.5 items_sold=7
+[2026-11-08 14:07:57] Spawner destroyed by explosion | Location: world (-422, 65, 129) | Entity: SKELETON | cause=SpawnerExplodeEvent quantity=1
+[2026-11-08 14:07:57] Spawner destroyed by explosion | Location: world (-422, 65, 129) | Entity: SKELETON | cause=SpawnerExplodeEvent quantity=1
+[2026-11-08 14:16:40] Experience claimed | Player: ZeniPx | Location: world (-422, 65, 129) | exp_amount=419
+[2026-11-08 14:16:40] Items sold | Player: ZeniPx | Location: world (-422, 65, 129) | Entity: SKELETON | total_price=128.5 items_sold=131
+[2026-11-08 14:19:30] Experience claimed | Player: ZeniPx | Location: world (-422, 65, 129) | exp_amount=164
+[2026-11-08 14:19:30] Items sold | Player: ZeniPx | Location: world (-422, 65, 129) | Entity: SKELETON | total_price=46.0 items_sold=44
+[2026-11-08 14:24:56] Experience claimed | Player: ZeniPx | Location: world (-422, 65, 129) | exp_amount=325
+[2026-11-08 14:24:56] Items sold | Player: ZeniPx | Location: world (-422, 65, 129) | Entity: SKELETON | total_price=102.5 items_sold=102
+[2026-11-08 14:26:25] Experience claimed | Player: ZeniPx | Location: world (-422, 65, 129) | exp_amount=85
+[2026-11-08 14:26:25] Items sold | Player: ZeniPx | Location: world (-422, 65, 129) | Entity: SKELETON | total_price=28.0 items_sold=27
+[2026-11-08 14:26:37] Spawner destroyed by explosion | Location: world (-422, 65, 129) | Entity: SKELETON | cause=SpawnerExplodeEvent quantity=1
+[2026-11-08 14:29:46] Experience claimed | Player: ZeniPx | Location: world (-422, 65, 129) | exp_amount=200
+[2026-11-08 14:29:46] Items sold | Player: ZeniPx | Location: world (-422, 65, 129) | Entity: SKELETON | total_price=54.5 items_sold=45
+[2026-11-08 17:01:38] Experience claimed | Player: ZeniPx | Location: world (-422, 65, 129) | exp_amount=396
+[2026-11-08 17:01:38] Items sold | Player: ZeniPx | Location: world (-422, 65, 129) | Entity: SKELETON | total_price=118.0 items_sold=122
+[2026-11-08 17:01:55] Experience claimed | Player: ZeniPx | Location: world (-422, 65, 129) | exp_amount=30
+[2026-11-08 17:01:55] Items sold | Player: ZeniPx | Location: world (-422, 65, 129) | Entity: SKELETON | total_price=11.0 items_sold=7
+[2026-11-09 04:20:48] Spawner broken | Player: ZeniPx | Location: world (-422, 65, 129) | Entity: SKELETON | quantity=1
+[2026-11-09 04:20:49] Spawner broken | Player: ZeniPx | Location: world (-422, 65, 129) | Entity: SKELETON | quantity=1
+[2026-11-09 04:20:49] Experience claimed | Player: ZeniPx | Location: world (-422, 65, 129) | exp_amount=1000
+[2026-11-09 04:20:49] Items sold | Player: ZeniPx | Location: world (-422, 65, 129) | Entity: SKELETON | total_price=312.5 items_sold=308
+[2026-11-09 04:21:03] Spawner placed | Player: ZeniPx | Location: world (-421, 60, 130) | quantity=1
+[2026-11-09 04:21:03] Spawner placed | Player: ZeniPx | Location: world (-422, 60, 131) | quantity=1
+[2026-11-09 11:08:10] Experience claimed | Player: Vaniqe | Location: world (123, 70, 116) | exp_amount=93
+[2026-11-09 11:08:10] Items sold | Player: Vaniqe | Location: world (123, 70, 116) | Entity: COW | total_price=226.0 items_sold=88
+[2026-11-09 11:16:22] Command executed by player | Player: Xaikaww1 | full_command=ss list command=list
+[2026-11-09 11:16:39] Experience claimed | Player: Xaikaww1 | Location: world (250, 99, 257) | exp_amount=440
+[2026-11-09 11:16:39] Items sold | Player: Xaikaww1 | Location: world (250, 99, 257) | Entity: SKELETON | total_price=132.5 items_sold=138
+[2026-11-09 11:17:08] Experience claimed | Player: Xaikaww1 | Location: world (250, 99, 257) | exp_amount=10
+[2026-11-09 11:17:08] Items sold | Player: Xaikaww1 | Location: world (250, 99, 257) | Entity: SKELETON | total_price=9.0 items_sold=6
+[2026-11-09 11:17:27] Experience claimed | Player: Xaikaww1 | Location: world (250, 99, 257) | exp_amount=20
+[2026-11-09 11:17:27] Items sold | Player: Xaikaww1 | Location: world (250, 99, 257) | Entity: SKELETON | total_price=5.5 items_sold=7
+[2026-11-09 11:20:59] Experience claimed | Player: Xaikaww1 | Location: world (250, 99, 257) | exp_amount=95
+[2026-11-09 11:20:59] Items sold | Player: Xaikaww1 | Location: world (250, 99, 257) | Entity: SKELETON | total_price=22.0 items_sold=26
+[2026-11-09 12:07:42] Command executed by console | sender=CONSOLE full_command=smartspawner give Crockdile skeleton 1 command=give
+[2026-11-09 12:07:49] Spawner placed | Player: Crockdile | Location: world (-264, 62, 417) | Entity: SKELETON | quantity=1
+[2026-11-09 12:10:03] Command executed by console | sender=CONSOLE full_command=smartspawner give kripihe1 skeleton 1 command=give
+[2026-11-09 12:10:05] Spawner placed | Player: kripihe1 | Location: world (-15, -51, 298) | Entity: SKELETON | quantity=1
+[2026-11-09 12:11:35] Page items dropped | Player: kripihe1 | Location: world (-15, -51, 298) | Entity: SKELETON | items_dropped=13 page_number=1
+[2026-11-09 12:15:46] Experience claimed | Player: kripihe1 | Location: world (-15, -51, 298) | exp_amount=113
+[2026-11-09 12:15:46] Items sold | Player: kripihe1 | Location: world (-15, -51, 298) | Entity: SKELETON | total_price=25.5 items_sold=24
+[2026-11-09 12:19:21] Page items dropped | Player: Reymcr | Location: world (-15, -51, 298) | Entity: SKELETON | items_dropped=24 page_number=1
+[2026-11-09 12:20:36] Spawner broken | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | quantity=1
+[2026-11-09 12:20:36] Experience claimed | Player: Npcnigira | Location: world (-15, -51, 298) | exp_amount=130
+[2026-11-09 12:20:36] Items sold | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | total_price=11.5 items_sold=9
+[2026-11-09 12:20:38] Spawner placed | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | quantity=1
+[2026-11-09 12:20:38] Spawner stacked by hand | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | new_stack_size=2 amount_added=1 old_stack_size=1
+[2026-11-09 12:20:39] Spawner stacked by hand | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | new_stack_size=3 amount_added=1 old_stack_size=2
+[2026-11-09 12:20:39] Spawner stacked by hand | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | new_stack_size=4 amount_added=1 old_stack_size=3
+[2026-11-09 12:20:39] Spawner stacked by hand | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | new_stack_size=5 amount_added=1 old_stack_size=4
+[2026-11-09 12:20:40] Spawner stacked by hand | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | new_stack_size=6 amount_added=1 old_stack_size=5
+[2026-11-09 12:20:40] Spawner broken | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | quantity=6
+[2026-11-09 12:20:41] Spawner placed | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | quantity=7
+[2026-11-09 12:20:42] Spawner stacked by hand | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | new_stack_size=14 amount_added=7 old_stack_size=7
+[2026-11-09 12:20:42] Spawner stacked by hand | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | new_stack_size=21 amount_added=7 old_stack_size=14
+[2026-11-09 12:20:42] Spawner stacked by hand | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | new_stack_size=28 amount_added=7 old_stack_size=21
+[2026-11-09 12:20:43] Spawner stacked by hand | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | new_stack_size=35 amount_added=7 old_stack_size=28
+[2026-11-09 12:20:43] Spawner stacked by hand | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | new_stack_size=42 amount_added=7 old_stack_size=35
+[2026-11-09 12:20:44] Spawner stacked by hand | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | new_stack_size=49 amount_added=7 old_stack_size=42
+[2026-11-09 12:20:44] Spawner stacked by hand | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | new_stack_size=56 amount_added=7 old_stack_size=49
+[2026-11-09 12:20:44] Spawner stacked by hand | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | new_stack_size=63 amount_added=7 old_stack_size=56
+[2026-11-09 12:20:45] Spawner stacked by hand | Player: Npcnigira | Location: world (-15, -51, 298) | Entity: SKELETON | new_stack_size=70 amount_added=7 old_stack_size=63
+[2026-11-09 12:31:58] Experience claimed | Player: kripihe1 | Location: world (-15, -51, 298) | exp_amount=22790
+[2026-11-09 12:31:58] Items sold | Player: kripihe1 | Location: world (-15, -51, 298) | Entity: SKELETON | total_price=6243.5 items_sold=6377
+[2026-11-09 12:38:08] Command executed by console | sender=CONSOLE full_command=smartspawner give Alyxz_YT pig 1 command=give
+[2026-11-09 12:38:59] Experience claimed | Player: kripihe1 | Location: world (-15, -51, 298) | exp_amount=12180
+[2026-11-09 12:38:59] Items sold | Player: kripihe1 | Location: world (-15, -51, 298) | Entity: SKELETON | total_price=3186.0 items_sold=3168
+[2026-11-09 12:49:52] Experience claimed | Player: kripihe1 | Location: world (-15, -51, 298) | exp_amount=23210
+[2026-11-09 12:49:52] Items sold | Player: kripihe1 | Location: world (-15, -51, 298) | Entity: SKELETON | total_price=6665.5 items_sold=6675
+[2026-11-09 12:52:09] Experience claimed | Player: kripihe1 | Location: world (-15, -51, 298) | exp_amount=4815
+[2026-11-09 12:52:09] Items sold | Player: kripihe1 | Location: world (-15, -51, 298) | Entity: SKELETON | total_price=1368.5 items_sold=1305
+[2026-11-09 12:53:23] Experience claimed | Player: kripihe1 | Location: world (-15, -51, 298) | exp_amount=3865
+[2026-11-09 12:53:23] Items sold | Player: kripihe1 | Location: world (-15, -51, 298) | Entity: SKELETON | total_price=1048.5 items_sold=1050
+[2026-11-09 12:56:03] Experience claimed | Player: kripihe1 | Location: world (-15, -51, 298) | exp_amount=5995
+[2026-11-09 12:56:03] Items sold | Player: kripihe1 | Location: world (-15, -51, 298) | Entity: SKELETON | total_price=1728.5 items_sold=1699
+[2026-11-09 12:59:47] Experience claimed | Player: Crockdile | Location: world (-264, 62, 417) | exp_amount=809
+[2026-11-09 12:59:47] Items sold | Player: Crockdile | Location: world (-264, 62, 417) | Entity: SKELETON | total_price=324.5 items_sold=325
+[2026-11-09 13:03:30] Command executed by console | sender=CONSOLE full_command=smartspawner give Crockdile pig 1 command=give
+[2026-11-09 13:03:31] Command executed by console | sender=CONSOLE full_command=smartspawner give Crockdile cow 1 command=give
+[2026-11-09 13:03:33] Command executed by console | sender=CONSOLE full_command=smartspawner give Crockdile zombie 1 command=give
+[2026-11-09 13:03:36] Command executed by console | sender=CONSOLE full_command=smartspawner give Crockdile spider 1 command=give
+[2026-11-09 13:03:39] Command executed by console | sender=CONSOLE full_command=smartspawner give Crockdile skeleton 1 command=give
+[2026-11-09 13:03:41] Command executed by console | sender=CONSOLE full_command=smartspawner give Crockdile creeper 1 command=give
+[2026-11-09 13:03:44] Command executed by console | sender=CONSOLE full_command=smartspawner give Crockdile zombified_piglin 1 command=give
+[2026-11-09 13:03:47] Command executed by console | sender=CONSOLE full_command=smartspawner give Crockdile blaze 1 command=give
+[2026-11-09 13:03:50] Command executed by console | sender=CONSOLE full_command=smartspawner give Crockdile iron_golem 1 command=give
+[2026-11-09 13:03:54] Spawner placed | Player: Crockdile | Location: world (-264, 60, 433) | Entity: ZOMBIE | quantity=1
+[2026-11-09 13:03:59] Spawner placed | Player: Crockdile | Location: world (-265, 60, 433) | Entity: IRON_GOLEM | quantity=1
+[2026-11-09 13:03:59] Spawner placed | Player: Crockdile | Location: world (-266, 60, 433) | Entity: COW | quantity=1
+[2026-11-09 13:04:01] Spawner placed | Player: Crockdile | Location: world (-267, 60, 433) | Entity: ZOMBIFIED_PIGLIN | quantity=1
+[2026-11-09 13:04:01] Spawner placed | Player: Crockdile | Location: world (-268, 60, 433) | Entity: CREEPER | quantity=1
+[2026-11-09 13:04:02] Spawner placed | Player: Crockdile | Location: world (-269, 60, 433) | Entity: PIG | quantity=1
+[2026-11-09 13:04:03] Spawner placed | Player: Crockdile | Location: world (-270, 60, 433) | Entity: SKELETON | quantity=1
+[2026-11-09 13:04:06] Spawner placed | Player: Crockdile | Location: world (-271, 60, 433) | Entity: SPIDER | quantity=1
+[2026-11-09 13:04:10] Experience claimed | Player: kripihe1 | Location: world (-15, -51, 298) | exp_amount=2520
+[2026-11-09 13:04:10] Items sold | Player: kripihe1 | Location: world (-15, -51, 298) | Entity: SKELETON | total_price=699.0 items_sold=737
+[2026-11-09 13:04:10] Spawner placed | Player: Crockdile | Location: world (-272, 60, 433) | Entity: BLAZE | quantity=1
+[2026-11-09 13:05:37] Experience claimed | Player: Crockdile | Location: world (-272, 60, 433) | exp_amount=80
+[2026-11-09 13:06:12] Items sold | Player: Crockdile | Location: world (-265, 60, 433) | Entity: IRON_GOLEM | total_price=352.0 items_sold=39
+[2026-11-09 13:06:16] Items sold | Player: Crockdile | Location: world (-265, 60, 433) | Entity: IRON_GOLEM | total_price=200.5 items_sold=21
+[2026-11-09 13:11:05] Command executed by console | sender=CONSOLE full_command=smartspawner give Crockdile iron_golem 43 command=give
+[2026-11-09 13:12:30] Spawner placed | Player: Crockdile | Location: world_the_end (23, 43, -86) | Entity: IRON_GOLEM | quantity=43
+[2026-11-09 13:28:13] Experience claimed | Player: kripihe1 | Location: world (-15, -51, 298) | exp_amount=17085
+[2026-11-09 13:28:13] Items sold | Player: kripihe1 | Location: world (-15, -51, 298) | Entity: SKELETON | total_price=5179.0 items_sold=4952
+[2026-11-09 14:02:01] Experience claimed | Player: kripihe1 | Location: world (-15, -51, 298) | exp_amount=22895
+[2026-11-09 14:02:01] Items sold | Player: kripihe1 | Location: world (-15, -51, 298) | Entity: SKELETON | total_price=6609.0 items_sold=6497
+[2026-11-09 14:33:00] Command executed by console | sender=CONSOLE full_command=smartspawner give DxrkXD iron_golem 1 command=give
+[2026-11-09 14:33:03] Spawner placed | Player: DxrkXD | Location: world_the_end (867, 64, 944) | Entity: IRON_GOLEM | quantity=1
+[2026-11-09 14:39:05] Command executed by console | sender=CONSOLE full_command=smartspawner give DxrkXD spider 1 command=give
+[2026-11-09 14:39:06] Spawner placed | Player: DxrkXD | Location: world_the_end (869, 64, 944) | Entity: SPIDER | quantity=1
+[2026-11-09 16:37:30] Spawner placed | Player: marlowth | Location: world (20102, -47, 20074) | Entity: SKELETON | quantity=1
+[2026-11-09 16:37:31] Spawner stacked by hand | Player: marlowth | Location: world (20102, -47, 20074) | Entity: SKELETON | new_stack_size=20 amount_added=19 old_stack_size=1
+[2026-11-09 16:38:56] Experience claimed | Player: marlowth | Location: world (20102, -47, 20074) | exp_amount=600
+[2026-11-09 16:38:56] Items sold | Player: marlowth | Location: world (20102, -47, 20074) | Entity: SKELETON | total_price=154.0 items_sold=157
